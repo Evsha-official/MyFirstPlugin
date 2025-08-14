@@ -1,0 +1,8 @@
+name: MyFirstPlugin
+version: 1.0
+main: com.evsha.myfirstplugin.App
+api-version: 1.12
+commands:
+  hello:
+    description: Says hello
+    usage: /hello
